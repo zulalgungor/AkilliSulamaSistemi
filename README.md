@@ -1,12 +1,11 @@
-# AKILLI SULAMA SİSTEMİ – Q-LEARNING TABANLI KARAR DESTEK MEKANİZMASI
-
-![GIF Animasyonu](zeytin_agaci_sulama.gif)
-
+# AKILLI SULAMA SİSTEMİ 
 Bu projede, zeytin ağacı için geliştirilen yapay zekâ destekli bir akıllı sulama sistemi tasarlanmıştır. Sistem, çevresel sensör verilerini analiz ederek sulama kararlarını otomatik şekilde verebilmektedir. Çalışmada Reinforcement Learning (RL) yöntemlerinden biri olan Q-Learning algoritması kullanılmıştır.
 
 Geleneksel sulama sistemlerinde sulama işlemleri genellikle sabit zaman aralıklarıyla veya manuel kontrol ile gerçekleştirilmektedir. Bu durum gereksiz su tüketimine, enerji kaybına ve bitki sağlığının olumsuz etkilenmesine neden olabilmektedir. Bu projede geliştirilen sistem ise çevresel koşulları değerlendirerek yalnızca gerekli durumlarda sulama yapmayı öğrenmektedir.
 
 Sistem; toprak nemi, hava durumu, sıcaklık, rüzgar hızı ve atmosfer basıncı gibi çevresel parametreleri dikkate alarak en uygun sulama kararını vermeyi amaçlamaktadır. Böylece hem su tasarrufu sağlanmakta hem de bitkinin sağlıklı kalması hedeflenmektedir.
+
+![GIF Animasyonu](zeytin_agaci_sulama.gif)
 
 # Agent (Ajan) ve Environment (Ortam) Yapısı
 
