@@ -1,2 +1,2 @@
-# Ak-ll-SulamaSistemi
+# AkilliSulamaSistemi
 AKILLI SULAMA SİSTEMİ – Q-LEARNING TABANLI KARAR DESTEK MEKANİZMASI
